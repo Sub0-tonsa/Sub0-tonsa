@@ -1,0 +1,7 @@
+- 👋 Hi, I'm Giovanni dos Santos Tonsa
+- 👀 I'm interested in becoming a Web Developer
+- 🌱 I'm currently learning HTML, CSS and Javascript
+- 💞️ I'm looking to collaborate on web development
+- 📫 How to contact me 11 9 3034-2494
+- 😄 Pronouns: Tonsa
+- ⚡ Fun fact: I can play the saxophone and play video games
