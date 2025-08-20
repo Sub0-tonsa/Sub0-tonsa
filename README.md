@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá me chamo Giovanni dos Santos Tonsa, <br>sou iniciante na programação.<br>Tenho 18 anos
+Olá Tudo bem ? <br> me chamo Giovanni dos Santos Tonsa, <br> sou Desenvolvedor web.<br>Tenho 18 anos, <br> estudo na Fatec Santana de Painaiba com o curso Analise e desenvolvimento de sistema e na ETEC em Santana de Pairniba com o curso de Desenvolvimento de Sistemas.
 
 
 ## 🌐 Socials:
