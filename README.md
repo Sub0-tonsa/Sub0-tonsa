@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá Tudo bem ? <br> Me chamo Giovanni dos Santos Tonsa, sou Desenvolvedor web.<br>Tenho 18 anos, estudo na Fatec Santana de Painaiba com o curso Analise e desenvolvimento de sistema e na ETEC em Santana de Parnaiba com o curso de Desenvolvimento de Sistemas.
+Olá Tudo bem ? <br> Me chamo Giovanni dos Santos Tonsa, sou Desenvolvedor web.<br>Tenho 18 anos, estudo na Fatec Santana de Painaiba com o curso Analise e desenvolvimento de sistema.
 
 
 ## 🌐 Socials:
