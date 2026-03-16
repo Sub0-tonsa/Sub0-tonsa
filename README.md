@@ -2,7 +2,7 @@
 
 👋 Olá! Meu nome é **Giovanni dos Santos Tonsa**.  
 Sou **Desenvolvedor Web**, com foco em aprendizado contínuo, boas práticas de desenvolvimento e construção de aplicações eficientes.  
-Tenho **18 anos** e curso **Análise e Desenvolvimento de Sistemas** na **FATEC Santana de Parnaíba**, onde desenvolvo projetos voltados a aplicações web, lógica de programação e back-end.
+Tenho **19 anos** e curso **Análise e Desenvolvimento de Sistemas** na **FATEC Santana de Parnaíba**, onde desenvolvo projetos voltados a aplicações web, lógica de programação e back-end.
 
 Busco oportunidades para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e crescer profissionalmente na área de tecnologia.
 
